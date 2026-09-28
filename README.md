@@ -25,7 +25,7 @@ N0CT1S/
 ## 🧪 prompts
 | version | status | notes |
 |---------|--------|-------|
-| v1 | coming soon | initial release |
+| v1 | release | initial release |
 
 ## ⚠️ disclaimer
 for educational & research purposes only.
